@@ -39,7 +39,7 @@
 - [`sql/`](./sql/): SQL scripts used for data preparation and aggregation  
 - [`sentiment_data_enrichment.py`](./python/sentiment_data_enrichment.py): Script for sentiment scoring using VADER  
 - [`dashboard/Marketing_Analysis_Dashboard.pbix`](./dashboard/Marketing_Analysis_Dashboard.pbix): Power BI dashboard with detailed insights  
-- [`Insights/DATA_PRESENTATION.pdf`](./Insights/DATA_PRESENTATION.pdf): Final presentation used for stakeholder communication
+- [`Insights/DATA PRESENTATION.pdf`](./Insights/DATA_PRESENTATION.pdf): Final presentation used for stakeholder communication
 
 ---
 
